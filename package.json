@@ -1,0 +1,23 @@
+{
+  "name": "professional-portfolio",
+  "version": "1.0.0",
+  "description": "A professional portfolio showcasing skills, experience, and contact information.",
+  "main": "src/scripts/app.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "portfolio",
+    "typescript",
+    "html",
+    "css"
+  ],
+  "author": "Mohammed Asim Khan",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.5.4"
+  }
+}
